@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sumin Das VR</h1>
 <h3 align="center">A passionate python full stack developer from India</h3>
-
 <img align="right" alt="coding" width="400" src ="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumindas&label=Profile%20views&color=0e75b6&style=flat" alt="sumindas" /> </p>
@@ -8,6 +7,8 @@
 <p align="left"> <a href="https://twitter.com/sumindasvr" target="blank"><img src="https://img.shields.io/twitter/follow/sumindasvr?logo=twitter&style=for-the-badge" alt="sumindasvr" /></a> </p>
 
 - 🔭 I’m currently working on **React Js**
+
+- 🌐Visit and stay updated! [https://vercel.com/sumin-das-vrs-projects/sumindasvr](https://vercel.com/sumin-das-vrs-projects/sumindasvr)
 
 - 💬 Ask me about **Django, Python, React**
 
