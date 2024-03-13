@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **React Js**
 
-- 🌐Visit and stay updated! [https://sumindasvr.vercel.app/)
+- 🌐Visit and stay updated! https://sumindasvr.vercel.app/
 
 - 💬 Ask me about **Django, Python, React**
 
