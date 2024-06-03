@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/sumindasvr" target="blank"><img src="https://img.shields.io/twitter/follow/sumindasvr?logo=twitter&style=for-the-badge" alt="sumindasvr" /></a> </p>
 
-- 🔭 I’m currently Learning  **React Js**
+- 🔭 I’m currently Working as **Junior Full Stack Developer**
 
 - 🌐Visit and stay updated! https://sumindasvr.vercel.app/
 
