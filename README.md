@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently Working as **Junior Full Stack Developer** at Agua India Pvt Limited Kochi
 
- <a href="https://gitlab.com/your_gitlab_username" target="_blank">
+ <a href="https://gitlab.com/sumindas" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original-wordmark.svg" alt="gitlab" width="30" height="30"/>
   </a>
 
