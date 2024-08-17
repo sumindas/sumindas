@@ -8,11 +8,9 @@
 
 - 🔭 I’m currently Working as **Junior Full Stack Developer** at Agua India Kochi
 
-- Currently working on <a href="https://gitlab.com/sumindas" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original-wordmark.svg" alt="gitlab" width="30" height="30"/>
-  </a>
+- Currently working on <a href="https://gitlab.com/sumindas" target="_blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original-wordmark.svg" alt="gitlab" width="30" height="30"/></a>
 
-- 🌐Visit and stay updated! https://sumindasvr.vercel.app/
+- 🌐 Visit and stay updated! <a href="https://sumindasvr.vercel.app/">https://sumindasvr.vercel.app/</a>
 
 - 💬 Ask me about **Django, Python, React**
 
